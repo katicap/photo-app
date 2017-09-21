@@ -9,7 +9,7 @@
 //
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
-//= require resolve-replace.rb
+
 //= require jquery
 //= require twitter/bootstrap
 //= require rails-ujs
